@@ -1,0 +1,1 @@
+Алгоритм дейкстри на графах(взято з лабараторної по алгоритмам та складності).використовується бібліотека pthread.h.https://www.youtube.com/watch?v=4GdTcqE0iqg&ab_channel=davidko
